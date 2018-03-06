@@ -125,5 +125,5 @@ To start the next chase, just reload the app or browser page.
 
 There is still many refinements that could be made to this app, but I
 think it performs its core mission well and is helpful in demonstrating
-now the Chase Algorithm works. I hope you enjoy using it as much as I
+how the Chase Algorithm works. I hope you enjoy using it as much as I
 did creating it.
